@@ -22,11 +22,12 @@ gem "sqlite3", "~> 2.0"
 gem "mail", "~> 2.8"
 
 gem "dotenv", "~> 3.1"
-gem "csv", "~> 3.3"
 
 gem "sinatra-cors", "~> 1.2"
 
 gem "sinatra-static", "~> 0.1.1"
+
+gem "csv", "~> 3.3"
 
 gem "octokit", "~> 9.1"
 
